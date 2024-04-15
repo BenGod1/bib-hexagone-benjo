@@ -57,7 +57,7 @@ bibliotheque = Bibliotheque()
 
 while True:
     print("\nQue souhaitez-vous faire ?")
-    print("1. Ajouter un livre")
+    print("1. Ajouter un livre")     
     print("2. Supprimer un livre")
     print("3. Modifier un livre")
     print("4. Afficher les livres")
